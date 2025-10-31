@@ -36,8 +36,9 @@ open(os.path.join(OUT_DIR, "benign.txt"), "w", encoding="utf-8").write("\n".join
 open(os.path.join(OUT_DIR, "attacks.txt"), "w", encoding="utf-8").write("\n".join(attacks))
 
 # --- fit & save the frontier (centroid margin) ---
-ff = train_and_save(benign, attacks, out_path=os.path.join(OUT_DIR, "frontier.pkl"),
-                    model_name="BAAI/bge-small-en-v1.5")
+ff = train_and_save(benign, attacks,
+                    out_path="security/frontier.pkl",
+                    model_name="BAAI/bge-large-en-v1.5")  # was small
 
 # --- (optional) visualize clusters in 2D ---
 try:

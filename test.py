@@ -445,18 +445,18 @@ def test_gcg(args):
     cfg.adv_suffix_init = "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
     # Init suffix length (auto-generated from adv_suffix_init)
     cfg.init_suffix_len = -1
-    cfg.num_steps = 500
+    cfg.num_steps = 100
     cfg.fixed_params = True  # Used fixed scenario params in each iteration
     cfg.allow_non_ascii = False
-    cfg.batch_size = 512  # Number of candidates to evaluate in each step
+    cfg.batch_size = 64  # Number of candidates to evaluate in each step
     # NOTE: Reduce mini_batch_size if OOM
-    cfg.mini_batch_size = 64#32 #128 #256  # -1 for full batch (config.batch_size)
+    cfg.mini_batch_size = 16 #32 #128 #256  # -1 for full batch (config.batch_size)
     cfg.seq_len = 50  # Max sequence length for computing loss
     cfg.loss_temperature = 1.0  # Temperature for computing loss
     cfg.max_queries = -1  # Max number of queries (default: -1 for no limit)
     cfg.skip_mode = "none"  # "none", "visited", "seen"
     cfg.add_space = False  # Add metaspace in front of target
-    cfg.topk = 256
+    cfg.topk = 128
     cfg.num_coords = (1, 1)  # Number of coordinates to change in one step
     cfg.mu = 0.0  # Momentum parameter
     cfg.custom_name = ""

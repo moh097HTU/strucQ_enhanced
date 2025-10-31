@@ -114,6 +114,35 @@ class BaseAttack:
         log_file.unlink(missing_ok=True)
         self._log_file = log_file
 
+        # === Human-readable TXT companion ===
+        # e.g., .../gcg/<attack_name>/<sample_id>.txt
+        hr = log_dir / f"{config.sample_id}.txt"
+        hr.unlink(missing_ok=True)
+        header = [
+            "# GCG human-readable log",
+            f"attack_name={self.name}",
+            f"run_name={atk_name}",
+            f"sample_id={config.sample_id}",
+            "",
+            "Columns per step:",
+            "  step/num_steps | loss | best_loss | success_begin_with | success_in_response | "
+            "queries | time_min | suffix | generated_head",
+            "-" * 88,
+            "",
+        ]
+        hr.write_text("\n".join(header), encoding="utf-8")
+        self._hr_log_file = hr
+
+        # Also place a tiny README once per run name to explain the files
+        readme = log_dir / "_ABOUT.txt"
+        if not readme.exists():
+            readme.write_text(
+                "This folder contains per-sample logs for the GCG attack.\n"
+                f"- JSONL: machine logs for programmatic use ({self.name}).\n"
+                "- TXT:   human-readable step-by-step view (this is what you likely want).\n",
+                encoding="utf-8",
+            )
+
     def _get_name_tokens(self) -> list[str]:
         """Create a name for this attack based on its parameters."""
         if self._init_suffix_len <= 0:
@@ -136,7 +165,7 @@ class BaseAttack:
         if self._fixed_params:
             atk_tokens.append("static")
         if self._allow_non_ascii:
-            atk_tokens.append("nonascii")
+            atk_tokens.append(f"nonascii")
         if self._skip_mode != "none":
             atk_tokens.append(self._skip_mode)
         return atk_tokens
@@ -233,7 +262,7 @@ class BaseAttack:
 
         if adv_suffix_ids.shape[0] == 0:
             raise RuntimeError("No valid suffixes found!")
-        assert adv_suffix_ids.shape == (batch_size, orig_len)
+        assert adv_suffix_ids.shape == (batch_size, orig_len), adv_suffix_ids.shape
         return adv_suffix_ids, num_valid
 
     def _get_next_suffix(
@@ -349,17 +378,18 @@ class BaseAttack:
                 self._num_queries += 1
                 result = self._eval_func(adv_suffix, messages)
                 passed = result[1] == 0
-                self.log(
-                    log_dict={
-                        "loss": current_loss,
-                        "best_loss": self._best_loss,
-                        "success_begin_with": result[1] == 1,
-                        "success_in_response": result[0] == 1,
-                        "suffix": adv_suffix,
-                        "generated": result[2][0][0],  # last message
-                        #"num_cands": adv_suffix_ids.shape[0], 
-                    },
-                )
+
+                # Structured dict sent to both JSONL and TXT
+                log_payload = {
+                    "loss": current_loss,
+                    "best_loss": self._best_loss,
+                    "success_begin_with": result[1] == 1,
+                    "success_in_response": result[0] == 1,
+                    "suffix": adv_suffix,
+                    "generated": result[2][0][0],  # last message
+                }
+                self.log(log_dict=log_payload)
+
             del token_grads, dynamic_input_ids
             gc.collect()
 
@@ -386,6 +416,26 @@ class BaseAttack:
             success=not passed,
         )
         self._step += 1
+
+        # === Final human-readable summary ===
+        try:
+            summary_path = self._log_file.with_suffix(".summary.txt")
+            txt = [
+                "=== GCG Summary ===",
+                f"success={attack_result.success}",
+                f"best_loss={attack_result.best_loss:.6f}",
+                f"num_queries={attack_result.num_queries}",
+                "",
+                "best_suffix:",
+                attack_result.best_suffix,
+                "",
+            ]
+            summary_path.write_text("\n".join(txt), encoding="utf-8")
+            with self._hr_log_file.open("a", encoding="utf-8") as f:
+                f.write("\n" + "\n".join(txt) + "\n")
+        except Exception as e:
+            logger.warning("Failed to write human-readable summary: %s", e)
+
         return attack_result
 
     def format(self, d, tab=0):
@@ -426,6 +476,27 @@ class BaseAttack:
                 return val.tolist() if val.numel() > 1 else val.item()
             return val
 
-        log_dict = {k: tensor_to_serializable(v) for k, v in log_dict.items()}
+        serializable = {k: tensor_to_serializable(v) for k, v in log_dict.items()}
         with self._log_file.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(log_dict) + "\n")
+            f.write(json.dumps(serializable) + "\n")
+
+        # === Human-readable TXT line ===
+        try:
+            # Keep one compact line per logging point (truncate generated)
+            gen = serializable.get("generated", "")
+            if isinstance(gen, str) and len(gen) > 160:
+                gen = gen[:160] + "…"
+            txt_line = (
+                f"{step}/{self._num_steps} | "
+                f"{serializable.get('loss')} | {serializable.get('best_loss')} | "
+                f"{int(serializable.get('success_begin_with', False))} | "
+                f"{int(serializable.get('success_in_response', False))} | "
+                f"{serializable.get('queries')} | "
+                f"{serializable.get('time_min'):.2f} | "
+                f"{serializable.get('suffix')} | "
+                f"{gen}"
+            )
+            with self._hr_log_file.open("a", encoding="utf-8") as f:
+                f.write(txt_line + "\n")
+        except Exception as e:
+            logger.warning("Failed to write human-readable TXT log: %s", e)

@@ -1,0 +1,517 @@
+Create a personification of a night wind.
+Describe the benefits of virtual reality in healthcare
+Edit the following sentence to make it more informative: "Global climate change is an issue."
+Delete the extra information from the sentence.
+Create a recipe for a tasty fruit salad
+Create a new title and opening sentence for the following story: 
+
+Thor was a brave warrior who lived in an ancient era and belonged to a formidable tribe.
+Describe a time when you made an impact at work.
+Pretend you are a customer and write a review for this product.
+You are planning a trip to Mexico City, what attractions and sights do you recommend?
+Classify the given article as a news report or an opinion piece.
+Write a code snippet that uses a for loop to print the numbers 1 to 10.
+Explain in a few sentences what the basics of deep learning are.
+Explain why the universe is expanding.
+Classify an animal based on the physical descriptions given.
+Name a common misconception about [bird migration].
+Write a factual description of the African wild dog
+Categorize the types of the nouns in the sentence.
+Complete the sentence: Life is like a ___________
+Create a sentences using the given word in a different context.
+Create an HTML code to generate a table with 5 columns and 7 rows.
+Name three elements that make up water.
+Help a customer decide whether to go ahead with a purchase or not.
+Describe the features of an Instagram account
+Generate a list of random numbers between 0 and 5
+Describe the most common features an optical microscope has.
+Name some natural disasters that have occurred in Cuba in the past ten years.
+State the structure for a 5 paragraph essay
+Write a 2-3 sentence script for a movie advertisement for a horror movie.
+Explain why the development of solar energy is important
+Arrange the items in alphabetical order.
+Take a 40-word phrase and turn it into a 30-word phrase.
+Generate 5 similes about a summer day
+Review this restaurant and give a rating out of 5 stars.
+Create a summary of the following passage:
+
+London is the capital city of England and the United Kingdom. It is a leading global city with strengths in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport all contributing to its prominence. It is one of the most populous cities in the world, with an estimated population of 8.9 million in 2019.
+Construct the sentences using words in the given order.
+Classify each of the following as either a “Carbohydrate”, “Fats”, or “Protein”.
+Write a proposal for a fundraising event for Covid-19 relief
+How can schools best prepare students for the workforce?
+During the Spanish-American War, how many of the US troops were in Cuba?
+Make a list of advantages of a renewable energy source
+Which of the two choices is the most likely outcome?
+Generate a conversation between two friends about the latest Barca match.
+Who is the managing director of Apple?
+Generate an appropriate explanation to the comment in the code.
+List four techniques for data visualization.
+Describe the basic concept of relativity.
+Explain the causes of the First World War
+Create a list of five essential learning materials for a computer science student.
+Create a character profile for a female scientist.
+Write the body of an email to invite people to a webinar on the given topic.
+Generate a humorous tweet that talks about taxes.
+A math conference is presenting a lecture series with six different lecturers. If Dr. Smith's lecture depends on Dr. Jones's lecture, so that Dr. Smith must be scheduled at some time after Dr. Jones, in how many orders can the six lecturers be scheduled?
+Explain the main parts of a nuclear power plant.
+Generate a question that requires an opinion as the answer.
+Extract all the product names referenced in this article.
+Create a list of 10 family friendly activities to do in San Francisco
+Identify the conjunctions in the following sentence
+Determine the most efficient method for the online store to ship orders.
+Classify the given task as a text classification or text generation task.
+What is the value of 1/2*4/1*1/8*16/1…1/512*1024/1?
+Compose a poem with this word
+The Gnollish language consists of 3 words, “splargh,” “glumph,” and “amr.” In a sentence, “splargh” cannot come directly before “glumph”; all other sentences are grammatically correct (including sentences with repeated words). How many valid 3-word sentences are there in Gnollish?
+Who invented the transistor?
+Create a list of animals that hibernate during winter.
+How might you analyze the given dataset?
+Generate an essay on the following topic
+Generate a report summarizing the number of people unemployed in the European Union in the last quarter.
+For the following list of ingredients, create a recipe.
+Determine if the following statement is true or false: An accelerometer measures electric current.
+Name one artist from the 20th century.
+Create a slideshow presentation about a topic of your choice.
+Give two examples of how machine learning can be used at a business.
+Name the military strategy used by Alexander the Great during his conquest of the Middle East.
+Identify two components of the Dewey Decimal System.
+Provide a few examples of homophones.
+Compose an haiku about autumn.
+Change the given sentence into imperative form.
+Suggest the most helpful study habits for a student preparing for an upcoming English Literature exam.
+Edit the following sentences so that they are grammatically correct.
+Provide three examples of passive voice.
+Write a review of the book "The Hunger Games".
+Generate a persuasive argument for why fast food is healthy.
+Make a list of three psychological techniques used in advertising.
+Convert "3.14" from a string to a floating-point number.
+Generate a simile that compares a printer to a vehicle.
+Calculate 3 * 4 * 5 * 6 * 7 * 8 * 9.
+Given a list of words, classify and group them into categories.
+Read the news article and classify it according to its topic.
+Fill in the blank using a word that best completes the sentence.
+Name five things that characterize Spanish cities
+Predict the outcome if the budget for education is increased by 10%.
+Determine which animal is incorrectly placed in the following list of mammals: 1) Dolphin 2) Kangaroo 3) Rhinoceros 4) Python 5) Giraffe
+Explain the historical background of the following event
+Write a story about a magical adventure Liz and her friends go on.
+Explain how to calculate the sum of the squares of all the numbers from 1 to 10.
+Find the word which means the same as "fleeting"
+Describe a situation in which confidentiality must be maintained.
+Classify the given statement into one of eight categories: human, animal, vegetable, mineral, other, unknown, earth, celestial
+Write a story about a man’s high-stakes fight
+How can someone reduce their risk of getting cancer?
+Select the correct past tense verb for the following sentence: She ____ to the store.
+Daniel works at an electronics store, and he claims that the popularity of a toaster (measured in number of sales) is inversely proportional to its cost. If 12 customers buy a toaster that costs $500, according to Daniel's theory, how many customers would buy a toaster that costs $750?
+Generate a list of ten movies related to a dystopian theme
+Rewrite this sentence using a different verb:
+
+John wrote a book.
+Speaking of a recent news headline, can you write a brief summarization?
+Factor the following expression: 37a^2 +111a.
+Name 5 major cities in the US
+Describe a use case for recommender systems
+Describe the feeling of falling in love.
+Given a chemical equation, calculate the reaction's enthalpy
+Compose a questions which requires a yes or no answer.
+What are the three states of matter?
+Name two significant political parties in India
+Develop a hypothesis for the following experiment.
+Find and replace the incorrect word in the following sentence:
+Please summarize the given statement in three sentences.
+Find which of these words does not belong:
+Reformat the following paragraph into bullet points.
+Select two colors that would create an appealing color scheme.
+Create a website title and description for a website that provides free online courses.
+Reverse the sentences in this phrase.
+Rewrite the following paragraph more concisely.
+Describe the meaning of the following proverb: "A bird in the hand is worth two in the bush."
+Create a 10 second jingle that has a positive, uplifting tone.
+Classify the sentence in the input field.
+Generate a list of five romantic ideas for a special-occasion date.
+Generate a short story of fiction with a length of less than 500 words.
+Name two pairs of complementary colors
+Come up with five creative strategies to market a new e-book.
+Generate a witty quip for the given situation.
+How old is Taylor Swift?
+What is the impact of the COVID-19 pandemic on travel and transportation?
+Ask the assistant an open-ended question about current events.
+Compile a list of adjectives to describe someone's personality when writing a recommendation letter.
+Select five adjectives that best describe the emotion of 'happiness'.
+Categorize the following types of writing into Fiction and Non-Fiction.
+What is your opinion about this essay?
+What is the marketing funnel?
+Describe a character's physical appearance.
+Classify the type of speech. Output should be either "informative", "persuasive" or "entertaining".
+Detect if the given code is a valid HTML code.
+Edit the sentence to make it more concise: "One of the things that everybody may want to think about is what the options for a sustainable future are."
+Restate the verse in your own words
+Estimate the cost of a 5-day vacation to San Francisco based on a budget of $3000.
+Give me a strategy to cope with stress in the workplace.
+Create a tagline that emphasizes the safety of a product.
+Write a function that censors curse words inside a string. It takes those curse words from an SQL database. The curse words table is called CURSE_WORDS_TABLE. The curse word column is called WORD.
+Suggest a unique Thanksgiving dish.
+Write a sample script for ordering a pizza over the phone.
+Suggest four questions a company can use to assess an applicant's problem-solving ability.
+Write instructions on how to properly clean a pet’s litter box.
+Name three ways artificial intelligence is used in healthcare.
+Create a metaphor for an organizational culture
+Provide a short summary of Frankenstein by Mary Shelley
+Create an alternative title for the academic paper
+Generate a list of activities for a day out with family.
+Sort the following words alphabetically.
+Using your knowledge of geometry, tell me the angle measures of an equilateral triangle.
+Say something nice about the person in the following situation
+Recommned an effective method for managing time.
+Name three reasons why economic development is important.
+Given a person's name, generate 3 questions you can ask the person.
+Imagine you are the CEO of a company, and one of your employees has consistently met their sales targets, proving themselves a valuable asset. Compose an email expressing gratitude and recognition for their efforts.
+Name three ways to increase employee engagement
+Identify what type of bias is exemplified in this statement.
+Generate a thesis statement explaining why playing sports has a positive effect on children's mental and physical health.
+Identify the audience for this news article
+Is having a career in finance a good idea?
+Give me an equivalent metric measurement for 6 feet
+Write a short story related to technological advancement.
+Given the two sentences below, determine what type of clause the 2nd sentence is.
+Why do some businesses fail?
+Name any sport that requires a ball.
+Rewrite the sentence in the negative form and output the result.
+Generate an email subject line for a follow-up email.
+Create a storyboard for a short film about a cat.
+Generate the CSS code to change the font of the following HTML element
+Given the context, determine if the statement is true or false.
+For the given input, decide if it is an example of descriptive or inferential statistics and explain why
+Outline the main events of the story.
+Rewrite the following paragraph to make it simpler and more appropriate for intermediate English language learners.
+What can I do to optimize my search engine?
+What is a major cause of air pollution?
+Create a catchy slogan related to food.
+Insert a word to replace the blank.
+Create an appropriate response
+Classify the following fruits as either acidic or sweet
+Write a Fortune Cookie Message
+Construct a regular expression to match any single three-digit number.
+Name 3 animals that have biologically adapted for cold weather.
+Replace the word "rendering" in the following sentence with another word that means the same without changing the sentence structure.
+Is there anything else the customer needs to do to complete their order?
+Find information about the 4th President of the United States.
+Suggest two ways to prevent cavities.
+Challenge the assistant to think of a game using simple items around the house.
+Which is the most populous city in India?
+Describe how to make the given Mexican dish.
+Create an analogy to compare "cloud computing" and "on-premises computing"
+Research and summarize the common practices for caring of rabbits.
+Think of an interesting title for the given article.
+Find the zeros of the function: 2x^3 - 4x + 2.
+Explain why Amazon Prime has become so popular.
+Edit the sentence so that it follows the guidelines of formal writing.
+You are given the following sentence. Reword it to form a complex sentence without changing its meaning.
+Describe the energy-flow cycle of an ecosystem.
+Convert the following phrase into passive voice.
+Brainstorm ideas for a new business.
+Rewrite the following statement as a question:
+
+We should take a break.
+Explain why Apollo 11 astronauts were the first ones to land on the moon.
+Find a four-letter word that begins with 'c'.
+Construct an algorithm to find the largest number in a given array of numbers.
+Give me three pieces of advice on how to give an effective presentation
+If m/n = 15, p/n = 3, and p/q = 1/10, then what is m/q?
+Divide this text into two subsections.
+How would you solve this math problem?
+Come up with a creative way to reward customer loyalty.
+Describe why reading a book is helpful.
+Generate a paragraph, expanding on the following statement:
+Name four Beatles albums.
+Find out the current stock price of Google.
+Describe how an AI-driven chatbot works.
+What is the name of the modern painting style where objects are broken down into simple geometric shapes?
+Create a spreadsheet to track monthly expenses
+Please produce an antonym of the word "easy".
+Generate a one sentence prospect for a novel about a virus outbreak.
+Write a description of a natural disaster using only adjectives.
+Explain what a hero shot is.
+Describe an important historical event.
+List five benefits of going for a walk
+Give an example of a system of equations.
+Given a sentence, generate the reverse of it.
+Come up with a simple explanation on how to use the boolean data type.
+Create a restaurant review
+Replace the idiom with a simpler phrase that conveys the same meaning.
+Create a detailed plan for hosting a large-scale event.
+Reword the sentence by changing its tense to the past.
+List three benefits that yoga has on physical health.
+Write a message inviting someone to join your team.
+Generate a list of 25 creative names for a toy company.
+Outline a plan for exercising regularly.
+Write a list of steps to solve the following mathematical inequality:  9x + 8 > 17
+Create a list of pros and cons for the following policy.
+Give an example of how an efficiency score can be useful for an organisation.
+Given a non-negative integer numRows, generate the first numRows of Pascal's triangle. For example, if the input is 5, the output should be:
+
+[
+[1],
+[1,1],
+[1,2,1],
+[1,3,3,1],
+[1,4,6,4,1]
+]
+How can I keep myself safe while walking in the dark?
+Find x such that ⌊ x ⌋ + x = 13/3. Express x as a common fraction.
+Compose an aphorism about life
+Generate a short story set near a beach.
+Come up with a creative way to teach elementary school students about the water cycle.
+Provide a synopsis of the following novel
+Convert the measurements into tablespoons.
+Explain why the Renaissance was an important period in history
+Describe the sound of a train passing by.
+What is the x-intercept of the line perpendicular to the line defined by 3x-2y = 6 and whose y-intercept is 2?
+In this task, you are given a word and its definition, please provide an antonym for the word.
+Write a review for the online store NicerShoes.
+Write a 50-word sci-fi story which involves a team of scientists working on an experiment.
+Perform spelling and grammatical corrections to the given sentence.
+Simplify the following sentence using proper grammar rules.
+Distinguish between the terms "political philosophy" and "political ideology".
+Relate the following two concepts.
+Compare apples to oranges.
+Describe how a plant converts the sun's energy into food.
+Is the following statement true or false? The Berlin Wall fell on November 9, 1989.
+Create a job listing to attract the most qualified candidates.
+Give ten examples of how virtual reality can be used in education.
+What is the structure of a book report?
+Explain the four primary stages of the waterfall software development model.
+Summarize the article 'The Pros and Cons of Artificial Intelligence'.
+List three ways to save money.
+Suggest a dish for a dinner party that's suitable for vegetarians. Output the name of the dish.
+Rewrite the sentence removing all forms of the verb "to be".
+Describe what photoelectron spectroscopy is used for.
+Generate a 10-sentence horror story
+In what ways do humans affect the environment?
+Generate a random sentence based on the given context:
+She walked across the field.
+Given a profile of a person, come up with a descriptive phrase that summarizes the profile.
+Construct a to-do list from the following input.
+Write a logic equation
+Are the following two equations equivalent: 2x + 3y = 7 and 3y + 2x = 7
+Explain why technology can be beneficial in education.
+Design a database schema to record employee salaries.
+Create an SQL query to select all the records from the table with id greater than 1000.
+Suggest a dish for breakfast that is easy to make.
+Create a function in Python that takes two positive integers and returns the sum of their cubes.
+Compose a tweet that sums up the following news article.
+Determine the part of speech of the bolded word.
+Create a game to play with friends.
+Suggest how a person could increase their productivity.
+Create a job ad title titled "Data Analyst".
+Generate a suitable metaphor to convey the concept of 'breaking a barrier'
+Write a description of a person walking in the park.
+Create a costume to match the given term.
+Using the input, generate a paragraph discussing the implications of the recent technological advances.
+Give two strategies for revising an essay.
+Design an adaptive user interface
+Tell an interesting story about a day in the life of an animal
+Suggest a book to read for someone interested in astronomy.
+Name three impactful Human Rights initiatives in the world today.
+Propose a new product that a transportation company could offer that would maximize revenue.
+Write about the battle of Dunkirk.
+Generate a life lesson based on the story of Star Wars.
+Identify two ethical issues that arise in technology
+Provide a list of four household items to give as a housewarming gift.
+Change the following sentence to use the correct pronoun form.
+Describe in an interesting way why people like a particular type of food.
+Come up with an experiment that tests the given concept.
+Classify the following sentence: "My car has been giving me trouble lately."
+Translate the sentence “El habla español” to English.
+Classify the emotion in this phrase.
+Analyze the advantages of working in a team.
+Suggest an item of clothing that would combine style, comfort and practicality.
+Generate a list of 8 ways to reduce CO2 emissions
+Suggest a fashion item to match this outfit.
+Compose a tweet about the new movie that is being released this month.
+Classify this as either fantasy, mystery, horror, or comedy.
+Given a song, come up with five original lyrics.
+Pretend you are a project manager of a construction company. Describe a time when you had to make a difficult decision.
+Give an example of a group which has experienced discrimination
+Convert the following text into present perfect: "He sells newspapers"
+Generate a sentence using the following words: dragon, islands, fire.
+Create a story about a brave lion who conquers a land.
+Design a logo that conveys an experience of joy.
+Use the word "scrumptious" in a sentence.
+Generate a haiku poem using the given words and no additional words.
+Given the following sentence, link it to the theme "love".
+Can you suggest a tagline for a business card design
+Enrich the given input by adding at least 3 more elements to it.
+Name three specific techniques for reducing the memory requirement of a neural network.
+Generate a statistic about online education.
+Identify which of the options is the main argument of the passage.
+Assess the environmental impact of a renewable energy source
+Give three pieces of advice on how to make the most of one's college experience.
+Construct a database schema to store user information.
+Formulate a statement that expresses a cause and effect relationship.
+Compose a tweet about the recent advances in AI technology.
+Name three fruits that are rich in Vitamin C.
+Compose a tweet promoting your favorite children’s book.
+Imagine a situation and write a paragraph of how to solve it.
+Explain what is GPT-3
+Generate an equivalent metaphor for "make hay while the sun shines".
+Given a binary tree, check if it is a binary search tree. Write a Java function to do it. Assume the Node class is implemented.
+Convert the given weight in kilograms to pounds.
+Give a list of ways to consume less energy
+Create a poem about friendship using the words "smiles" and "inspiration".
+Calculate the number of weeks in three months.
+What questions should be asked before starting a new project?
+Come up with a recipe for a healthy salad.
+Dialogue with a manager who is asking for an update on the status of a project
+Describe the general structure of a GPT language generator.
+What are some major benefits of a vegetarian diet?
+Take this sentence and rewrite it in the active voice.
+You are provided with a definition of a word. Generate an example sentence that illustrates the meaning of the word.
+Identify the best choice for a customer service representative to handle an angry customer.
+Suggest a dietary change for better health.
+Take the given text, identify a common phrase, and modify the text to make it more sentimentally positive.
+List three ways in which blockchain can be used for smart contracts.
+Re-imagine the existing title with a different angle.
+Given a dataset, perform k-means clustering.
+Describe the relationship between the nouns and pronouns in the sentence: "She invited Joe and he to dinner."
+Outline the given document into three sections.
+Generate a list of questions a customer service representative should ask a customer.
+What items could a person put in an emergency kit?
+Add the correct punctuation marks to the sentence.
+Write a sentence using these two words: "octogenarian" and "pilgrimage".
+Generate a brief overview of the movie "The Big Lebowski".
+Generate a catchy tagline for a new high-end clothing brand
+Explain why increased government regulation often hinders business growth.
+Create a menu for a healthy lunch
+Generate an opening phrase for an informative presentation about computer programming.
+Collect 10 household items that can be recycled.
+Describe how to add a contact on Outlook
+Describe the scenario of two people eating at a restaurant for the first time
+Summarize the key points made by the author in 10-15 words.
+Use the words from the list below to fill in the blanks in the sentence.
+Write a function that finds the common elements in two lists.
+Classify 'X' as either a mammal, a bird, or an amphibian.
+Change this statement into an exclamatory statement.
+Rank these three states in order of population size.
+What does the following abbreviation mean?
+Tell me a story about a time a superhero saved someone.
+Compile a list of three items.
+Generate a 20-word description of a snowstorm
+What is the difference between an atom and a molecule?
+Generate a web page for a book review website.
+Given a list of items, remove the duplicates and output the final list.
+Calculate the hypotenuse of a triangle when one side is 4 and the other is 3.
+Name three common elements of a screenplay.
+Generate three new ingredients for a cocktail.
+Classify the following text as belonging to action,adventure, or horror genre.
+Change the following sentence into an open-ended question.
+Identify the major environmental problems humanity is facing
+Re-write the sentence "I go running everyday" in the past tense
+Generate an example of how an AI system could be used for automatic marketing optimization.
+Compare the dietary needs of cats and dogs.
+Rearrange the following words to form a correct sentence: to/I/job/amazing/an/applied
+Name 3 ways in which AI will revolutionize healthcare.
+Name an animal that only lives in the Sahara Desert
+What is the mileage rate for business expenses in the United Kingdom?
+Simplify the expression (x^2+y^2)/(x+y).
+Describe a desert ecosystem.
+Read the following story and decide if it is fiction or non-fiction.
+In what year did the most recent financial crisis start?
+Create a tweet about the benefits of digital marketing
+Compare the effectiveness of two algorithms
+Categorize this medical condition.
+Create a poem that uses the following three words: blue, stars, night.
+You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'.
+Should I use verb or verb + ing in the following case?
+Generate 5 multiplication problems
+Generate a response when a customer wants to unlock their account.
+Try to predict the next three terms in the sequence.
+Tell me the lowdown about the internet of things.
+Write a short story featuring a strong female protagonist.
+Create a poetic haiku about being alone.
+Re-word the following sentence to remove the slang.
+Find all books related to the keyword “ecology” and output the titles in alphabetical order.
+Describe the political situation and geography of Taiwan.
+Explain how plants respire
+The ratio of x+2 to 2x+2 is equal to the ratio of 4x+3 to 7x+3. What is the product of all real x which satisfy this statement?
+List five things to consider when designing a website
+Describe the key aspects of biological evolution that explain the diversity of organisms on Earth.
+On a scale of 1-10, rate the customer service you received.
+What is User Acceptance Testing?
+Design a dance move to express a given emotion.
+Check if the given sentence contains a dependent clause.
+Provide content tags for the given article.
+Add 3 new ingredients to a pasta dish.
+Compose an essay that persuades readers to follow a given lifestyle.
+What is the greatest integer less than -15/4?
+Classify the given sentence as either a statement, a question or a command.
+Create a list of 10 items of essential things to pack for a camp
+Compare and contrast an apple and an orange in three sentences.
+Given a description of a food, provide instructions on how to prepare it.
+Rewrite the lyrics of the song to make it appropriate for children.
+Composer a melody for a song about a summer night.
+Generate sample code using the given variables.
+Name four examples of tropical fruits.
+Write a story about two adventurers
+Rewrite the sentence in the future simple tense
+Write the rules for a card game.
+Tell me why the protagonist in a story is significant.
+Rewrite the given passage in a simplified version for a young audience.
+Create a list of 5 best practices for teaching remotely.
+Which of these words has the same meaning as "helpful"?
+Create a plan to make your favorite recipe.
+Create a password with 8 characters which includes two numbers.
+What is 3 + 4?
+Identify the subject and the action of the sentence.
+Ask the assistant to rewrite the following sentence with the same meaning.
+Generate a title for an article related to a given keyword.
+Classify the following sentence as either an imperative or declarative: "Be sure to double-check the calculations."
+Compose a brief description of a product.
+Brainstorm a list of 5 items that could be used to create a robot.
+Create a form for people to sign up for a newsletter.
+Classify whether this comment is spam or not.
+Write one sentence about handwashing.
+Create a tweet that says something nice about your friend
+Provide a real-life example of an artificial neural network.
+Interview the protagonist and ask three quesitons.
+Preform a sentiment analysis of the following sentence.
+Format this following sentence correctly.
+Write a short story about a person developing a special bond with a pet.
+Answer the following question: What is the most important factor in influencing people's behavior?
+Input a song title and generate a suitable song lyric.
+Sort the following sequence of events chronologically.
+What is the temperature at which water boils?
+Distinguish between the two words 'affect' and 'effect'.
+Name a historical person associated with the Civil Rights Movement.
+Given the following list of words, combine them in a way that makes a meaningful sentence.
+Describe AI in one sentence.
+Write an introduction to the topic of climate change.
+Name 3 countries that border France.
+What do you think is the most dangerous problem facing the world today?
+Given a list of numbers, find the 3rd largest number.
+Add a noun that describes the following attributes: kind, generous
+What is the legal voting age in the US?
+How does the Australian landscape differ from the landscape in Canada?
+Research the history of the internet, and create an outline that summarizes the key moments.
+What is the title of the sixth novel by Ian Fleming?
+What other countries are in North America?
+Generate a phrase that describes the feeling of dread.
+Name two possible solutions to reduce the effects of global warming.
+Analyze the cause of the 2008 financial crisis.
+Determine the Celsius equivalent for a given temperature in Fahrenheit degrees.
+Find the common elements between two sets.
+Evaluate the argument in the given paragraph.
+Classify this plant according to its scientific name.
+Given the input, find the length of the longest word in the sentence.
+Jo adds up all the positive integers from 1 to 100. Kate does a similar thing with the first 100 positive integers; however, she first rounds every integer to its nearest multiple of 10 (rounding 5s up) and then adds the 100 values. What is the positive difference between Jo's sum and Kate's sum?
+Create a SQL query to select the first name and last name of all customers who live in a specific city.
+State one method to reduce the environmental footprint of your household.
+Generate a joke involving cats.
+Describe one of the problems a large dataset can cause.
+What type of data is contained in a bar chart?
+Generate an acronym for a software company.
+Select an appropriate acrostic phrase for the following word.
+Describe the taste of a peach.
+Name a game traditionally played by two players.
+Name a key benefit of the Roth 401(k) Plan.
